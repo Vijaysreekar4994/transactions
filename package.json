@@ -1,0 +1,25 @@
+{
+  "name": "transactions",
+  "version": "1.0.0",
+  "description": "to add all transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijaysreekar4994/transactions.git"
+  },
+  "author": "vijaya srikar PORALLA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijaysreekar4994/transactions/issues"
+  },
+  "homepage": "https://github.com/Vijaysreekar4994/transactions#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
